@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing Strategy",
+        "image": "https://i.ibb.co/HVndDNb/people10.jpg",
+        "icon": "https://i.ibb.co/nRvYckj/home.png"
+    },
+    {
+        "id": 2,
+        "title": "Lead Generations Campaign",
+        "image": "https://i.ibb.co/Kq0Qkxz/people32.jpg",
+        "icon": "https://i.ibb.co/ThThGfX/plugin.png"
+    },
+    {
+        "id": 3,
+        "title": "Lead Generations Campaign",
+        "image": "https://i.ibb.co/XpRkcDN/people21.jpg",
+        "icon": "https://i.ibb.co/4svG5gB/sunny.png"
+    }
+]
